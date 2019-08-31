@@ -1,0 +1,1 @@
+dotnet publish ./TicTacToe/TicTacToe.csproj -o ./../dist
